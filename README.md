@@ -109,7 +109,9 @@ rag.clear()
 ragqna init --documents ./docs/ --model mistral-large-2407
 
 # Note: Query command requires vector store persistence (future feature)
+ragqna query "<your question>" --model mistral-large-2407
 ```
+
 
 ## Project Structure
 
