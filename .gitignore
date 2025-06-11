@@ -1,0 +1,5 @@
+__pycache__/
+.env
+vector_store/
+HowToDevelop_WBS.pdf
+venv
