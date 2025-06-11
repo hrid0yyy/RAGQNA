@@ -14,7 +14,7 @@ setup(
     description="A RAG-based Question and Answer system for documents",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/rag-qna-from-doc",
+    url="https://github.com/hrid0yyy/RAGQNA.git",
     package_dir={"": "src"},
     packages=find_packages(where="src"),
     classifiers=[
