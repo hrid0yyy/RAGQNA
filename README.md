@@ -8,7 +8,7 @@ A Retrieval-Augmented Generation (RAG) based Question and Answer system that all
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rag-qna-from-doc.git
+git clone https://github.com/hrid0yyy/RAGQNA
 cd rag-qna-from-doc
 
 # Create virtual environment (recommended)
